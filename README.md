@@ -3,8 +3,9 @@
 2. [Task](https://github.com/valeria-jimenez/cyclistic-rstudio?tab=readme-ov-file#task)
 3. [Data](https://github.com/valeria-jimenez/cyclistic-rstudio?tab=readme-ov-file#data)
 4. [Data Processing and Cleaning](https://github.com/valeria-jimenez/cyclistic-rstudio?tab=readme-ov-file#data-processing-and-cleaning)
-5. [Findings](https://github.com/valeria-jimenez/cyclistic-rstudio?tab=readme-ov-file#findings)
-6. [Recommendations](https://github.com/valeria-jimenez/cyclistic-rstudio?tab=readme-ov-file#recommendations)
+5. [Analysis](https://github.com/valeria-jimenez/cyclistic-rstudio?tab=readme-ov-file#analysis)
+6. [Findings](https://github.com/valeria-jimenez/cyclistic-rstudio?tab=readme-ov-file#findings)
+7. [Recommendations](https://github.com/valeria-jimenez/cyclistic-rstudio?tab=readme-ov-file#recommendations)
 
 # Introduction
 * This case study is a part of the Google Data Analytics Course Capstone, originally based on [this case study](https://artscience.blog/home/divvy-dataviz-case-study).
@@ -15,9 +16,13 @@
 
 # Data
 * The data is provided by Google as part of the Google Data Analytics Certification course. It has bike-share information from January 2021 to December 2021.
-
   
 # Data Processing and Cleaning
+* The dataset was merged, names were cleaned, rides at or under 0 seconds were removed, and null values were removed.
+* New features were created from existing features (day of week, starting hour, month, duration of ride)
+
+# Analysis
+* The analysis can be found [here](https://github.com/valeria-jimenez/cyclistic-rstudio/blob/main/cyclistic_rstudio.md).
 
 # Findings
 * Members
